@@ -6,3 +6,5 @@ From the beginning, since the first printed newspaper, every news that makes int
 ## Task:
 Classify news into categories based on their headline and short description and deploying using Flask.
 
+## Demo:
+![Demmo1](readme_demo/News Category Predictor - Google Chrome 2021-07-19 17-13-21.mp4)
